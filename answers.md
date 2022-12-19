@@ -14,3 +14,13 @@ Other ports:
 - 53 -> DNS
 - 22 -> SSH
 - 110 -> POP3
+
+## Final Part
+- 17 "hops"
+- charter
+- 6 hops away from the last entry
+
+IP Addresses:
+- 138.197.248.248, New York, New Υork, USA
+- 62.115.136.201, Ashburn, Virgina, USA
+- 62.115.179.147, Brussels, Belgium
